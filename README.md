@@ -1,3 +1,19 @@
+# node: 8.9.4
+
+```
+    _                      _                 ____ _     ___
+   / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+  / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+ / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+/_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+               |___/
+
+@angular/cli: 1.4.9
+node: 8.9.4
+@angular/core: 4.4.7
+```
+
+
 # Rxjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
